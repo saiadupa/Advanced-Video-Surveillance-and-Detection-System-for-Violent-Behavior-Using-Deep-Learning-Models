@@ -50,9 +50,6 @@ To use any of the models:
 3. **Perform Prediction**: Pass the video frames to the model for prediction.
 4. **Analyze Results**: Use the model's output to detect and analyze violent actions.
 
-## Licensing
-
-All models are provided for research purposes and may be subject to licensing restrictions. Ensure compliance with applicable licenses when using the models.
 
 ## Contact
 
