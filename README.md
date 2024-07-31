@@ -1,5 +1,7 @@
----
+
 # Advanced Video Surveillance and Detection System for Violent Behavior Using Deep Learning Models
+
+---
 
 # Model Documentation
 
@@ -54,6 +56,8 @@ All models are provided for research purposes and may be subject to licensing re
 
 ## Contact
 
-For any inquiries regarding the models, please contact [adupanithinsai@gmail.com](adupanithinsai@gmail.com).
+For any inquiries regarding the models, please contact [your.email@example.com](mailto:your.email@example.com).
 
 ---
+
+Feel free to adjust the content to better fit your specific requirements or preferences!
